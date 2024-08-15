@@ -1,10 +1,10 @@
 <h1 align="center">
   <a href="https://bonjourr.fr">
-    <img src="https://raw.githubusercontent.com/victrme/Bonjourr/master/src/assets/bonjourr.png" width="50%" alt="Bonjourr's website">
+    <img src="https://raw.githubusercontent.com/ajaxStardust/bonjeffrey/master/src/assets/bonjourr.png" width="50%" alt="Bonjourr's website">
   </a>
 </h1>
 
-Bonjourr is a home page for your Internet browser inspired by the looks of iOS.<br>
+bonJeffrey is a home page for your Internet browser inspired by the looks of iOS.<br>
 While it aims to look and feel minimal, it still brings you lots of options to customise it to your liking. Here's some features:
 
 -   🍏 iOS design language
